@@ -1,3 +1,20 @@
+## Hey 👋, This is Daniel Bryk Silveira
+[![Gmail Badge](https://img.shields.io/badge/-danielbryksil@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danielbryksil@gmail.com)](mailto:danielbryksil@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/- https://www.linkedin.com/in/danielbryk-silveira-27148311a/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ https://www.linkedin.com/in/danielbryk-silveira-27148311a//)](https://www.linkedin.com/in/ https://www.linkedin.com/in/danielbryk-silveira-27148311a//) [![Github Badge](https://img.shields.io/badge/-danielbryksil-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danielbryksil/)](https://www.github.com/danielbryksil/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/danielbryksil?tab=repositories/)](https://github.com/danielbryksil?tab=repositories/) <p align='left'>Um entusiasta recém-apaixonado pela área de dados! Sou formado em Economia pela UFRGS e trago uma sólida experiência profissional no mercado financeiro, tendo atuado em bancos, family offices, startups e gestão de recursos. Essa trajetória enriqueceu minha visão e proporcionou uma compreensão profunda dos desafios empresariais.
+
+Em 2022, fiz uma reviravolta na minha carreira ao ingressar no curso de Data Science na TripleTen. Ao longo do curso, apaixonei-me por essa área multidisciplinar que combina programação, estatística e negócios. Pude perceber que muitas das minhas experiências profissionais e acadêmicas convergiam para eu me tornar um cientista de dados. Desenvolvi habilidades sólidas em Python e SQL, o que me permitiu conduzir análises exploratórias de dados (EDA), testes de hipóteses, pré-processamento e visualização de dados com precisão.
+
+Além disso, dominei bibliotecas essenciais de Python na análise de dados (pandas, numpy, matplotlib, seaborn, plotly, sklearn entre outras) e explorei amplamente o mundo da modelagem preditiva. Aprofundei-me nos principais modelos de machine learning (árvore de decisão, random forests, regressão logística, regressão linear, KNN e outros) e também mergulhei em deep learning com as bibliotecas PyTorch, Keras, TensorFlow e BERT.
+
+Durante essa jornada, apliquei esses conhecimentos em projetos práticos, resolvendo problemas do mundo real com análises de dados e modelagem preditiva. Você pode conferir alguns dos meus projetos abaixo.
+
+Estou entusiasmado em aplicar minhas habilidades e conhecimentos em desafios reais da Ciência de Dados e continuar crescendo neste campo empolgante!
+</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=danielbryksil alt=danielbryksil /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=danielbryksil&show_icons=true&include_all_commits=true)](https://github.com/danielbryksil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbryksil&layout=compact)](https://github.com/danielbryksil/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Daniel Bryk Silveira</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
