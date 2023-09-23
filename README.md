@@ -1,4 +1,4 @@
-## Hey 👋, This is Daniel Bryk Silveira
+## Hey 👋, me chamo Daniel Bryk Silveira
 <p align='left'>Um entusiasta recém-apaixonado pela área de dados! Sou formado em Economia pela UFRGS e trago uma sólida experiência profissional no mercado financeiro, tendo atuado em bancos, family offices, startups e gestão de recursos. Essa trajetória enriqueceu minha visão e proporcionou uma compreensão profunda dos desafios empresariais.
 
 Em 2022, fiz uma reviravolta na minha carreira ao ingressar no curso de Data Science na TripleTen. Ao longo do curso, apaixonei-me por essa área multidisciplinar que combina programação, estatística e negócios. Pude perceber que muitas das minhas experiências profissionais e acadêmicas convergiam para eu me tornar um cientista de dados. Desenvolvi habilidades sólidas em Python e SQL, o que me permitiu conduzir análises exploratórias de dados (EDA), testes de hipóteses, pré-processamento e visualização de dados com precisão.
