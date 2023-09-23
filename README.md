@@ -10,7 +10,7 @@ Além disso, dominei bibliotecas essenciais de Python na análise de dados (pand
 
 Apliquei esses conhecimentos em projetos práticos, resolvendo problemas do mundo real com análises de dados e modelagem preditiva. Você pode conferir alguns dos meus projetos por aqui.
 
-Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visitando [meu LinkedIn clicando aqui](https://www.linkedin.com/in/daniel-bryk-silveira-27148311a/).
+Fiz vários outros cursos relacionados a dados. Você pode conferir alguns visitando meu LinkedIn [clicando aqui](https://www.linkedin.com/in/daniel-bryk-silveira-27148311a/).
 
 ## Me contate, adoraria ouvir mais de você
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/daniel-bryk-silveira-27148311a/)
