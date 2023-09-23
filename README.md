@@ -8,11 +8,7 @@ Além disso, dominei bibliotecas essenciais de Python na análise de dados (pand
 Apliquei esses conhecimentos em projetos práticos, resolvendo problemas do mundo real com análises de dados e modelagem preditiva. Você pode conferir alguns dos meus projetos por aqui.
 
 </p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=danielbryksil alt=danielbryksil /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=danielbryksil&show_icons=true&include_all_commits=true)](https://github.com/danielbryksil/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbryksil&layout=compact)](https://github.com/danielbryksil/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Daniel Bryk Silveira</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
